@@ -1,5 +1,3 @@
----
-
 # Half Adder in Verilog (Learning-Oriented Example)
 
 ## Overview
